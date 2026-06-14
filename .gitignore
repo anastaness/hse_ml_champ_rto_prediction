@@ -1,0 +1,16 @@
+# Данные
+data/*.csv
+data/processed/
+
+# Сабмиты
+submissions/*.csv
+
+# Логи CatBoost
+catboost_info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
