@@ -45,7 +45,7 @@
 
 ## Схема пайплайна
 
-![Схема пайплайна](reports/pipeline_diagram.png)
+![Схема пайплайна](reports/pipeline_diagram1.png)
 
 ## Шаги решения
 
